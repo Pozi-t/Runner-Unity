@@ -1,4 +1,4 @@
-# HNURE-Runner
+# Runner
 Standard runner
 
 
